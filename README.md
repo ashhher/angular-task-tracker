@@ -3,7 +3,7 @@
 <h4 align="center">Anuglar practice project</h4>
 
 <h4 align="center">
-<img height="200" src="angularTaskTracker.jpg">
+<img height="400" src="angularTaskTracker.jpg">
 </h4>
 
 ## Features 🔍
