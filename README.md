@@ -16,6 +16,7 @@
 ## Technology 🖥️
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+
 The mock rest json server was implemented by [json-server](https://github.com/typicode/json-server).
 
 ## Installation and Setup ⚙️
